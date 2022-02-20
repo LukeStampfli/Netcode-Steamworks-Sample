@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.community.netcode.transport.steamnetworking": "https://github.com/Unity-Technologies/multiplayer-community-contributions.git?path=/Transports/com.community.netcode.transport.steamnetworking#d6ff6674d1b3882badb1fbf4ec4aa47c58878119",
+    "com.community.netcode.transport.steamnetworking": "https://github.com/Unity-Technologies/multiplayer-community-contributions.git?path=/Transports/com.community.netcode.transport.steamnetworking",
     "com.rlabrecque.steamworks.net": "https://github.com/rlabrecque/Steamworks.NET.git?path=/com.rlabrecque.steamworks.net",
     "com.unity.collab-proxy": "1.13.5",
     "com.unity.ide.rider": "3.0.7",
